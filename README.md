@@ -1,5 +1,4 @@
 # InsecureDesignSimulasyonu
-# InsecureDesignSimulasyonu
 Insecure Design Örneği: Kimlik Doğrulama Zafiyeti
 # Proje Hakkında
 Uygulama; Dependency Injection (DI), Service Collection, Entity Framework Core ve Event-Driven Design prensipleriyle katmanlı mimaride inşa edilmiştir.
